@@ -1,0 +1,38 @@
+{
+  "name": "turing-model-cockpit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local model cockpit for the Turing College OpenRouter key: catalog, benchmarks and usage per model.",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,green \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:server": "tsx watch --no-warnings=ExperimentalWarning server/index.ts",
+    "dev:web": "vite --config web/vite.config.ts",
+    "build": "vite build --config web/vite.config.ts",
+    "start": "npm run build && tsx --no-warnings=ExperimentalWarning server/index.ts",
+    "serve": "tsx --no-warnings=ExperimentalWarning server/index.ts",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "tsx --no-warnings=ExperimentalWarning --test --test-force-exit server/cockpit.test.ts server/match.test.ts server/availability.test.ts server/nvidia.test.ts server/extension-sync.test.mjs"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "hono": "^4.6.14",
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@tanstack/react-table": "^8.20.6",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  }
+}

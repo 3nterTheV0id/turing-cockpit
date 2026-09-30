@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Turing Cockpit Sync",
+  "version": "1.0.0",
+  "description": "Sends your Turing College model list and OpenRouter credit to your local Model Cockpit every hour.",
+  "permissions": ["storage", "alarms"],
+  "host_permissions": [
+    "https://api-usage-tracker.turingcollege.com/*",
+    "https://*.supabase.co/*",
+    "http://localhost/*",
+    "http://127.0.0.1/*"
+  ],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Turing Cockpit Sync",
+    "default_icon": { "16": "icons/icon16.png", "32": "icons/icon32.png", "48": "icons/icon48.png" }
+  },
+  "icons": { "16": "icons/icon16.png", "32": "icons/icon32.png", "48": "icons/icon48.png", "128": "icons/icon128.png" }
+}

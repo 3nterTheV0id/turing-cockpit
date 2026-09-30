@@ -1,0 +1,21 @@
+/* Turing College tracker colors */
+:root { --bg: hsl(240 10% 6%); --card: hsl(240 10% 9%); --fg: hsl(0 0% 95%); --muted: hsl(240 5% 60%); --border: hsl(240 5% 18%); --primary: hsl(210 100% 52%); --ok: hsl(142 71% 45%); --warn: hsl(38 92% 50%); --bad: hsl(0 72% 51%); color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; width: 330px; background: var(--bg); color: var(--fg); font: 13.5px/1.45 ui-sans-serif, system-ui, sans-serif; }
+main { padding: 16px; display: flex; flex-direction: column; gap: 14px; }
+h1 { margin: 0; font-size: 15px; display: flex; gap: 8px; align-items: center; }
+h1 svg { color: var(--primary); }
+form { display: flex; flex-direction: column; gap: 10px; }
+label { display: flex; flex-direction: column; gap: 4px; color: var(--muted); font-size: 12.5px; }
+input, select { height: 36px; padding: 0 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); color: var(--fg); font: inherit; }
+input:focus, select:focus { outline: none; border-color: var(--primary); }
+button { height: 38px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); color: var(--fg); font: inherit; cursor: pointer; }
+button:hover { filter: brightness(1.15); }
+button.primary { background: var(--primary); border-color: var(--primary); color: #fff; font-weight: 600; }
+button:disabled { opacity: 0.6; cursor: wait; }
+:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+#status { padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); display: flex; flex-direction: column; gap: 4px; }
+#status:empty { display: none; }
+.row { display: flex; justify-content: space-between; gap: 8px; }
+.row span:first-child { color: var(--muted); }
+.ok { color: var(--ok); } .warn { color: var(--warn); } .bad { color: var(--bad); }

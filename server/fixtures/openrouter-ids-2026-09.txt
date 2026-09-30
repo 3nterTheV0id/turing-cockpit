@@ -1,0 +1,625 @@
+jaredpalmer/kev-4b jaredpalmer/kev-4b-20260924
+perceptron/perceptron-mk1.5 perceptron/perceptron-mk1.5-20260925
+google/gemini-3.5-transcribe google/gemini-3.5-transcribe-20260827
+fish-audio/transcribe-1-pro fish-audio/transcribe-1-pro-20260924
+fireworks/ember-1 fireworks/ember-1-20260923
+inclusionai/ming-image-0.1-design-layer inclusionai/ming-image-0.1-design-layer-20260922
+google/gemini-3.8-flash-lite-tts google/gemini-3.8-flash-lite-tts-20260922
+google/gemini-3.8-flash-tts google/gemini-3.8-flash-tts-20260922
+z-ai/glm-5.3-prime z-ai/glm-5.3-prime-20260921
+qwen/qwen3.8-max-prime qwen/qwen3.8-max-prime-20260923
+recraft/recraft-v4.1-flash recraft/recraft-v4.1-flash-20260923
+stealth/space-bunny-alpha
+aion-labs/aion-3.5-mini aion-labs/aion-3.5-mini-20260923
+aion-labs/aion-3.5 aion-labs/aion-3.5-20260923
+upstage/solar-mini4 upstage/solar-mini4-20260922
+cohere/command-a-plus cohere/command-a-plus-05-2026
+openai/gpt-6-luna-pro openai/gpt-6-luna-pro-20260922
+openai/gpt-6-luna-pro:batch openai/gpt-6-luna-pro-20260922
+openai/gpt-6-luna openai/gpt-6-luna-20260922
+openai/gpt-6-luna:batch openai/gpt-6-luna-20260922
+openai/gpt-6-sol-pro openai/gpt-6-sol-pro-20260922
+openai/gpt-6-sol-pro:batch openai/gpt-6-sol-pro-20260922
+openai/gpt-6-sol openai/gpt-6-sol-20260922
+openai/gpt-6-sol:batch openai/gpt-6-sol-20260922
+inclusionai/ming-image-0.1-design inclusionai/ming-image-0.1-design-20260922
+anthropic/claude-opus-5.5 anthropic/claude-opus-5.5-20260921
+anthropic/claude-opus-5.5:batch anthropic/claude-opus-5.5-20260921
+assemblyai/universal-3-5-pro assemblyai/universal-3-5-pro-20260914
+xiaomi/mimo-v2.6-pro-ultraspeed xiaomi/mimo-v2.6-pro-ultraspeed-20260921
+xiaomi/mimo-v2.6-flash xiaomi/mimo-v2.6-flash-20260921
+xiaomi/mimo-v2.6-pro xiaomi/mimo-v2.6-pro-20260921
+x-ai/grok-4.7 x-ai/grok-4.7-20260916
+qwen/qwen3.8-omni-flash qwen/qwen3.8-omni-flash-20260918
+prism-ml/ternary-bonsai-2-27b prism-ml/ternary-bonsai-2-27b-20260918
+z-ai/glm-5.3-flashx z-ai/glm-5.3-flashx-20260918
+~typesafe/jev-latest
+typesafe/jev-1.13 typesafe/jev-1.13-20260917
+unbiased/pareto unbiased/pareto-20260917
+~deepseek/deepseek-pro-latest
+~deepseek/deepseek-flash-latest
+inference-net/schematron-v2-turbo inference-net/schematron-v2-turbo-20260902
+inference-net/schematron-v2-small inference-net/schematron-v2-small-20260902
+meta/muse-voice-transcribe-1.0 meta/muse-voice-transcribe-1.0-20260903
+~openai/gpt-astra-latest
+~openai/gpt-sol-latest
+~openai/gpt-terra-latest
+~openai/gpt-luna-latest
+sakana/fugu-ultra-v2 sakana/fugu-ultra-v2-20260911
+sakana/fugu-max sakana/fugu-max-20260911
+black-forest-labs/flux-video-edit black-forest-labs/flux-video-edit-20260910
+inclusionai/ling-3.0-flash-vl inclusionai/ling-3.0-flash-vl-20260910
+deepseek/deepseek-v4.1-flash deepseek/deepseek-v4.1-flash-20260910
+deepseek/deepseek-v4.1-flash:batch deepseek/deepseek-v4.1-flash-20260910
+openai/gpt-image-2.5-sunburst openai/gpt-image-2.5-sunburst-20260908
+openai/gpt-image-2.5-flare openai/gpt-image-2.5-flare-20260908
+inception/mercury-2.5 inception/mercury-2.5-20260908
+openai/gpt-6-astra openai/gpt-6-astra-20260903
+openai/gpt-6-astra:batch openai/gpt-6-astra-20260903
+openai/gpt-6-astra-pro openai/gpt-6-astra-pro-20260903
+openai/gpt-6-astra-pro:batch openai/gpt-6-astra-pro-20260903
+microsoft/mai-image-2.6 microsoft/mai-image-2.6-20260904
+microsoft/mai-image-2.6-flash microsoft/mai-image-2.6-flash-20260904
+inclusionai/ling-3.0-flash-sante:free inclusionai/ling-3.0-flash-sante-20260904
+qwen/qwen3.8-max-0902 qwen/qwen3.8-max-20260902
+microsoft/mai-transcribe-2 microsoft/mai-transcribe-2-20260903
+meta/muse-spark-1.3-contributor meta/muse-spark-1.3-contributor-20260902
+meta/muse-spark-1.3 meta/muse-spark-1.3-20260902
+google/gemini-3.8-flash google/gemini-3.8-flash-20260902
+google/gemini-3.8-flash:batch google/gemini-3.8-flash-20260902
+minimax/hailuo-3-max minimax/hailuo-3-max-20260901
+anthropic/claude-fable-5.1 anthropic/claude-fable-5.1-20260831
+anthropic/claude-fable-5.1:batch anthropic/claude-fable-5.1-20260831
+ibm-granite/granite-4.2-8b ibm-granite/granite-4.2-8b-20260831
+tencent/hy4-preview tencent/hy4-preview-20260827
+alibaba/wan-3.0-prime alibaba/wan-3.0-prime-20260827
+inclusionai/ling-3.0-flash-fin inclusionai/ling-3.0-flash-fin-20260827
+inclusionai/ling-3.0-flash-fin:free inclusionai/ling-3.0-flash-fin-20260827
+~z-ai/glm-flash-latest
+qwen/qwen3.8-flash qwen/qwen3.8-flash-20260826
+meta/muse-image meta/muse-image-1.0-eval-20260824
+z-ai/glm-5.3-flash z-ai/glm-5.3-flash-20260826
+z-ai/glm-5.3-flash:batch z-ai/glm-5.3-flash-20260826
+recraft/recraft-v4-styles-pro recraft/recraft-v4-styles-pro-20260826
+recraft/recraft-v4-styles-vector recraft/recraft-v4-styles-vector-20260826
+recraft/recraft-v4-styles-pro-vector recraft/recraft-v4-styles-pro-vector-20260826
+recraft/recraft-v4-styles recraft/recraft-v4-styles-20260826
+alibaba/wan-3.0 alibaba/wan-3.0-20260824
+heygen/avatar-iv heygen/avatar-iv-20260625
+meta/muse-spark-1.2-contributor meta/muse-spark-1.2-contributor-20260805
+deepseek/deepseek-v4-flash-vision-exp deepseek/deepseek-v4-flash-vision-exp-20260821
+tencent/hy-mt2-1.8b tencent/hy-mt2-1.8b-20260521
+tencent/hy-mt2-30b-a3b tencent/hy-mt2-30b-a3b-20260521
+black-forest-labs/flux-video-upscale black-forest-labs/flux-video-upscale-20260819
+~z-ai/glm-latest
+tencent/hy-mt2-7b tencent/hy-mt2-7b-20260521
+z-ai/glm-5.3 z-ai/glm-5.3-20260816
+z-ai/glm-5.3:batch z-ai/glm-5.3-20260816
+liquid/lfm-2.5-embedding-350m:free liquid/lfm-2.5-embedding-350m-20260818
+qwen/qwen3.8-27b qwen/qwen3.8-27b-20260814
+qwen/qwen3.8-27b:free qwen/qwen3.8-27b-20260814
+dots-studio/dots-3-note-preview:free dots-studio/dots-3-note-preview-20260813
+nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b-20260813
+mistralai/voxtral-small-24b-2507-stt mistralai/voxtral-small-24b-2507-stt-20260813
+mistralai/voxtral-mini-3b-2507 mistralai/voxtral-mini-3b-2507-20260813
+bytedance-seed/seedream-5-0-lite bytedance-seed/seedream-5-0-lite-20260812
+google/gemini-3.7-flash google/gemini-3.7-flash-20260813
+google/gemini-3.7-flash:batch google/gemini-3.7-flash-20260813
+voyageai/voyage-code-4 voyageai/voyage-code-4-20260812
+qwen/qwen3-reranker-8b
+qwen/qwen3-asr-1.7b qwen/qwen3-asr-1.7b-20260813
+qwen/qwen3-asr-0.6b qwen/qwen3-asr-0.6b-20260813
+bytedance-seed/seedream-5-0-pro bytedance-seed/seedream-5-0-pro-20260812
+deepgram/flux-tts:free deepgram/flux-tts-20260812
+bytedance/seedance-2.0-mini bytedance/seedance-2.0-mini-20260811
+bytedance-seed/seed-2-1-turbo bytedance-seed/seed-2-1-turbo-20260810
+qwen/qwen3.8-2.4t-a95b qwen/qwen3.8-2.4t-a95b-20260812
+bytedance-seed/seed-2.0-code bytedance-seed/seed-2.0-code-20260730
+deepseek/deepseek-v4-pro-0813 deepseek/deepseek-v4-pro-20260813
+x-ai/grok-4.6 x-ai/grok-4.6-20260810
+x-ai/grok-imagine-image-2.0 x-ai/grok-imagine-image-2.0-20260811
+liquid/lfm-2.5-2.6b:free liquid/lfm-2.5-2.6b-20260811
+nvidia/nemotron-3.5-lightning nvidia/nemotron-3.5-lightning-20260807
+nvidia/nemotron-3.5-lightning:free nvidia/nemotron-3.5-lightning-20260807
+sakana/sakana-namazu sakana/namazu-20260811
+upstage/solar-pro4 upstage/solar-pro4-20260810
+meta/muse-glimmer-30b meta/muse-glimmer-30b-20260810
+bytedance/seedance-2.5 bytedance/seedance-2.5-20260807
+openai/gpt-transcribe openai/gpt-transcribe-20260805
+meta/muse-spark-1.2 meta/muse-spark-1.2-20260805
+qwen/qwen-image-3 qwen/qwen-image-3-20260805
+qwen/qwen-image-3-pro qwen/qwen-image-3-pro-20260805
+black-forest-labs/flux-3-video black-forest-labs/flux-3-video-20260804
+~deepseek/deepseek-v4-flash-latest
+deepseek/deepseek-v4-flash-0731 deepseek/deepseek-v4-flash-20260731
+thinkingmachines/inkling-small thinkingmachines/inkling-small-20260730
+thinkingmachines/inkling-small:free thinkingmachines/inkling-small-20260730
+minimax/hailuo-3 minimax/hailuo-03-20260730
+fish-audio/transcribe-1 fish-audio/transcribe-1-20260729
+fish-audio/s1 fish-audio/s1-20260729
+fish-audio/s2-pro fish-audio/s2-pro-20260729
+fish-audio/s2.1-pro-free:free fish-audio/s2.1-pro-free-20260729
+fish-audio/s2.1-pro fish-audio/s2.1-pro-20260729
+runway/aleph-2 runway/aleph-2-20260729
+runway/gen-4.5 runway/gen-4.5-20260729
+qwen/qwen3.7-flash qwen/qwen3.7-flash-20260727
+voyageai/rerank-2.5-lite voyageai/rerank-2.5-lite-20260727
+voyageai/rerank-2.5 voyageai/rerank-2.5-20260727
+voyageai/voyage-multimodal-3.5 voyageai/voyage-multimodal-3.5-20260727
+voyageai/voyage-4-lite voyageai/voyage-4-lite-20260727
+voyageai/voyage-4 voyageai/voyage-4-20260727
+voyageai/voyage-4-large voyageai/voyage-4-large-20260727
+anthropic/claude-opus-5 anthropic/claude-opus-5-20260723
+anthropic/claude-opus-5:batch anthropic/claude-opus-5-20260723
+microsoft/mai-image-2.5-pro microsoft/mai-image-2.5-pro-20260723
+microsoft/mai-voice-2-flash microsoft/mai-voice-2-flash-20260723
+inclusionai/ling-3.0-flash inclusionai/ling-3.0-flash-20260723
+qwen/qwen-audio-3.0-tts-flash qwen/qwen-audio-3.0-tts-flash-20260723
+qwen/qwen-audio-3.0-tts-plus qwen/qwen-audio-3.0-tts-plus-20260723
+x-ai/grok-stt-1.0 x-ai/grok-stt-20260723
+poolside/laguna-s-2.1 poolside/laguna-s-2.1-20260720
+poolside/laguna-s-2.1:free poolside/laguna-s-2.1-20260720
+google/gemini-3.6-flash google/gemini-3.6-flash-20260721
+google/gemini-3.6-flash:batch google/gemini-3.6-flash-20260721
+google/gemini-3.5-flash-lite google/gemini-3.5-flash-lite-20260721
+google/gemini-3.5-flash-lite:batch google/gemini-3.5-flash-lite-20260721
+krea/krea-2-large krea/krea-2-large-20260720
+krea/krea-2-medium krea/krea-2-medium-20260720
+krea/krea-2-medium-turbo krea/krea-2-medium-turbo-20260720
+meituan/longcat-2.0 meituan/longcat-2.0-20260720
+x-ai/grok-imagine-video-1.5 x-ai/grok-imagine-video-1.5-20260719
+thinkingmachines/inkling thinkingmachines/inkling-20260715
+thinkingmachines/inkling:free thinkingmachines/inkling-20260715
+openrouter/auto-beta
+deepgram/aura-2 deepgram/aura-2-20260716
+moonshotai/kimi-k3 moonshotai/kimi-k3-20260715
+moonshotai/kimi-k3:batch moonshotai/kimi-k3-20260715
+meta/muse-spark-1.1 meta/muse-spark-1.1-20260709
+nvidia/nemotron-3-embed-1b:free nvidia/nemotron-3-embed-1b-20260716
+minimax/speech-2.8-hd minimax/speech-2.8-hd-20260716
+minimax/speech-2.8-turbo minimax/speech-2.8-turbo-20260716
+deepgram/nova-3 deepgram/nova-3-20260714
+kwaipilot/kat-coder-pro-v2.5 kwaipilot/kat-coder-pro-v2.5-20260710
+openai/gpt-5.6-luna-pro openai/gpt-5.6-luna-pro-20260709
+openai/gpt-5.6-luna-pro:batch openai/gpt-5.6-luna-pro-20260709
+openai/gpt-5.6-luna openai/gpt-5.6-luna-20260709
+openai/gpt-5.6-luna:batch openai/gpt-5.6-luna-20260709
+openai/gpt-5.6-terra-pro openai/gpt-5.6-terra-pro-20260709
+openai/gpt-5.6-terra-pro:batch openai/gpt-5.6-terra-pro-20260709
+openai/gpt-5.6-terra openai/gpt-5.6-terra-20260709
+openai/gpt-5.6-terra:batch openai/gpt-5.6-terra-20260709
+openai/gpt-5.6-sol-pro openai/gpt-5.6-sol-pro-20260709
+openai/gpt-5.6-sol-pro:batch openai/gpt-5.6-sol-pro-20260709
+openai/gpt-5.6-sol openai/gpt-5.6-sol-20260709
+openai/gpt-5.6-sol:batch openai/gpt-5.6-sol-20260709
+x-ai/grok-4.5 x-ai/grok-4.5-20260708
+~x-ai/grok-latest
+aion-labs/aion-3.0-mini aion-labs/aion-3.0-mini-20260707
+aion-labs/aion-3.0 aion-labs/aion-3.0-20260707
+tencent/hy3 tencent/hy3-20260706
+poolside/laguna-xs-2.1 poolside/laguna-xs-2.1-20260625
+poolside/laguna-xs-2.1:free poolside/laguna-xs-2.1-20260625
+anthropic/claude-sonnet-5 anthropic/claude-sonnet-5-20260630
+anthropic/claude-sonnet-5:batch anthropic/claude-sonnet-5-20260630
+google/gemini-3.1-flash-lite-image google/gemini-3.1-flash-lite-image-20260630
+sakana/fugu-ultra sakana/fugu-ultra-20260615
+alibaba/happyhorse-1.1 alibaba/happyhorse-1.1-20260624
+openai/gpt-image-2
+openai/gpt-image-1
+openai/gpt-image-1-mini
+alibaba/happyhorse-1.0 alibaba/happyhorse-1.0-20260624
+google/gemini-3.1-flash-image google/gemini-3.1-flash-image-20260528
+google/gemini-3-pro-image google/gemini-3-pro-image-20260528
+cohere/north-mini-code:free cohere/north-mini-code-20260617
+z-ai/glm-5.2 z-ai/glm-5.2-20260616
+z-ai/glm-5.2:free z-ai/glm-5.2-20260616
+openrouter/fusion
+moonshotai/kimi-k2.7-code moonshotai/kimi-k2.7-code-20260612
+nvidia/llama-nemotron-rerank-vl-1b-v2:free nvidia/llama-nemotron-rerank-vl-1b-v2
+~anthropic/claude-fable-latest
+anthropic/claude-fable-5 anthropic/claude-5-fable-20260609
+anthropic/claude-fable-5:batch anthropic/claude-5-fable-20260609
+sourceful/riverflow-v2.5-pro sourceful/riverflow-v2.5-pro-20260605
+sourceful/riverflow-v2.5-fast sourceful/riverflow-v2.5-fast-20260605
+nvidia/nemotron-3.5-content-safety nvidia/nemotron-3.5-content-safety-20260604
+nvidia/nemotron-3.5-content-safety:free nvidia/nemotron-3.5-content-safety-20260604
+nvidia/nemotron-3-ultra-550b-a55b nvidia/nemotron-3-ultra-550b-a55b-20260604
+nvidia/nemotron-3-ultra-550b-a55b:free nvidia/nemotron-3-ultra-550b-a55b-20260604
+qwen/qwen3.7-plus qwen/qwen3.7-plus-20260602
+microsoft/mai-voice-2
+microsoft/mai-transcribe-1.5
+microsoft/mai-image-2.5
+minimax/minimax-m3 minimax/minimax-m3-20260531
+stepfun/step-3.7-flash stepfun/step-3.7-flash-20260528
+anthropic/claude-opus-4.8 anthropic/claude-4.8-opus-20260528
+anthropic/claude-opus-4.8:batch anthropic/claude-4.8-opus-20260528
+nvidia/parakeet-tdt-0.6b-v3
+qwen/qwen3.7-max qwen/qwen3.7-max-20260520
+x-ai/grok-build-0.1 x-ai/grok-build-0.1-20260520
+google/gemini-embedding-2
+google/gemini-embedding-2:batch google/gemini-embedding-2
+google/gemini-3.5-flash google/gemini-3.5-flash-20260519
+google/gemini-3.5-flash:batch google/gemini-3.5-flash-20260519
+x-ai/grok-imagine-video x-ai/grok-imagine-video-20260512
+x-ai/grok-imagine-image-quality x-ai/grok-imagine-image-quality-20260512
+mistralai/voxtral-mini-transcribe mistralai/voxtral-mini-transcribe-2602
+x-ai/grok-voice-tts-1.0
+qwen/qwen3-asr-flash-2026-02-10
+recraft/recraft-v4.1-pro-vector recraft/recraft-v4.1-pro-vector-20260514
+recraft/recraft-v4.1-vector recraft/recraft-v4.1-vector-20260514
+recraft/recraft-v4.1-utility-pro recraft/recraft-v4.1-utility-pro-20260514
+recraft/recraft-v4.1-utility recraft/recraft-v4.1-utility-20260514
+recraft/recraft-v4.1-pro recraft/recraft-v4.1-pro-20260514
+recraft/recraft-v4.1 recraft/recraft-v4.1-20260514
+recraft/recraft-v4-pro-vector recraft/recraft-v4-pro-vector-20260514
+recraft/recraft-v4-vector recraft/recraft-v4-vector-20260514
+perceptron/perceptron-mk1 perceptron/perceptron-mk1-20260512
+recraft/recraft-v4-pro recraft/recraft-v4-pro-20260413
+recraft/recraft-v4 recraft/recraft-v4-20260413
+recraft/recraft-v3 recraft/recraft-v3-20260413
+google/gemini-3.1-flash-lite google/gemini-3.1-flash-lite-20260507
+google/gemini-3.1-flash-lite:batch google/gemini-3.1-flash-lite-20260507
+openai/gpt-chat-latest openai/gpt-chat-latest-20260505
+google/chirp-3
+openai/gpt-4o-mini-transcribe
+openai/whisper-large-v3
+openai/whisper-large-v3-turbo
+x-ai/grok-4.3 x-ai/grok-4.3-20260430
+x-ai/grok-4.3:batch x-ai/grok-4.3-20260430
+mistralai/mistral-medium-3-5 mistralai/mistral-medium-3.5-20260430
+mistralai/mistral-medium-3-5:batch mistralai/mistral-medium-3.5-20260430
+kwaivgi/kling-v3.0-pro kwaivgi/kling-v3.0-pro-20260429
+kwaivgi/kling-v3.0-std kwaivgi/kling-v3.0-std-20260429
+nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428
+openai/whisper-1
+openai/gpt-4o-transcribe
+~anthropic/claude-haiku-latest
+~openai/gpt-mini-latest
+~google/gemini-pro-latest
+~moonshotai/kimi-latest
+~google/gemini-flash-latest
+~anthropic/claude-sonnet-latest
+qwen/qwen3.5-plus-20260420
+qwen/qwen3.6-flash
+qwen/qwen3.6-35b-a3b qwen/qwen3.6-35b-a3b-20260415
+qwen/qwen3.6-max-preview qwen/qwen3.6-max-preview-20260420
+qwen/qwen3.6-27b qwen/qwen3.6-27b-20260422
+openai/gpt-5.5-pro openai/gpt-5.5-pro-20260423
+openai/gpt-5.5-pro:batch openai/gpt-5.5-pro-20260423
+openai/gpt-5.5 openai/gpt-5.5-20260423
+openai/gpt-5.5:batch openai/gpt-5.5-20260423
+deepseek/deepseek-v4-pro deepseek/deepseek-v4-pro-20260423
+deepseek/deepseek-v4-flash deepseek/deepseek-v4-flash-20260423
+google/gemini-3.1-flash-tts-preview
+google/veo-3.1-fast google/veo-3.1-fast-20260320
+canopylabs/orpheus-3b-0.1-ft
+sesame/csm-1b
+hexgrad/kokoro-82m
+google/veo-3.1-lite google/veo-3.1-lite-20260331
+tencent/hy3-preview tencent/hy3-preview-20260421
+xiaomi/mimo-v2.5-pro xiaomi/mimo-v2.5-pro-20260422
+xiaomi/mimo-v2.5 xiaomi/mimo-v2.5-20260422
+openai/gpt-5.4-image-2 openai/gpt-5.4-image-2-20260421
+~anthropic/claude-opus-latest
+openrouter/pareto-code
+kwaivgi/kling-video-o1 kwaivgi/kling-video-o1-20260420
+minimax/hailuo-2.3 minimax/hailuo-2.3-20260420
+moonshotai/kimi-k2.6 moonshotai/kimi-k2.6-20260420
+mistralai/voxtral-mini-tts-2603
+google/gemini-embedding-2-preview
+anthropic/claude-opus-4.7 anthropic/claude-4.7-opus-20260416
+anthropic/claude-opus-4.7:batch anthropic/claude-4.7-opus-20260416
+alibaba/wan-2.7 alibaba/wan-2.7-20260414
+bytedance/seedance-2.0 bytedance/seedance-2.0-20260414
+bytedance/seedance-2.0-fast bytedance/seedance-2.0-fast-20260414
+z-ai/glm-5.1 z-ai/glm-5.1-20260406
+cohere/rerank-4-pro
+cohere/rerank-4-fast
+cohere/rerank-v3.5
+google/gemma-4-26b-a4b-it google/gemma-4-26b-a4b-it-20260403
+google/gemma-4-26b-a4b-it:free google/gemma-4-26b-a4b-it-20260403
+google/gemma-4-31b-it google/gemma-4-31b-it-20260402
+google/gemma-4-31b-it:free google/gemma-4-31b-it-20260402
+qwen/qwen3.6-plus qwen/qwen3.6-plus-04-02
+z-ai/glm-5v-turbo z-ai/glm-5v-turbo-20260401
+arcee-ai/trinity-large-thinking
+x-ai/grok-4.20-multi-agent x-ai/grok-4.20-multi-agent-20260309
+x-ai/grok-4.20 x-ai/grok-4.20-20260309
+google/lyria-3-pro-preview google/lyria-3-pro-preview-20260330
+google/lyria-3-clip-preview google/lyria-3-clip-preview-20260330
+alibaba/wan-2.6 alibaba/wan-2.6-20260327
+bytedance/seedance-1-5-pro bytedance/seedance-1-5-pro-20260320
+openai/sora-2-pro openai/sora-2-pro-20260320
+google/veo-3.1 google/veo-3.1-20260320
+rekaai/reka-edge rekaai/reka-edge-2603
+minimax/minimax-m2.7 minimax/minimax-m2.7-20260318
+openai/gpt-5.4-nano openai/gpt-5.4-nano-20260317
+openai/gpt-5.4-nano:batch openai/gpt-5.4-nano-20260317
+openai/gpt-5.4-mini openai/gpt-5.4-mini-20260317
+openai/gpt-5.4-mini:batch openai/gpt-5.4-mini-20260317
+mistralai/mistral-small-2603
+mistralai/mistral-small-2603:batch mistralai/mistral-small-2603
+perplexity/pplx-embed-v1-4b perplexity/pplx-embed-v1-4B
+perplexity/pplx-embed-v1-0.6b perplexity/pplx-embed-v1-0.6B
+z-ai/glm-5-turbo z-ai/glm-5-turbo-20260315
+nvidia/nemotron-3-super-120b-a12b nvidia/nemotron-3-super-120b-a12b-20230311
+nvidia/nemotron-3-super-120b-a12b:free nvidia/nemotron-3-super-120b-a12b-20230311
+bytedance-seed/seed-2.0-lite bytedance-seed/seed-2.0-lite-20260309
+qwen/qwen3.5-9b qwen/qwen3.5-9b-20260310
+openai/gpt-5.4-pro openai/gpt-5.4-pro-20260305
+openai/gpt-5.4-pro:batch openai/gpt-5.4-pro-20260305
+openai/gpt-5.4 openai/gpt-5.4-20260305
+openai/gpt-5.4:batch openai/gpt-5.4-20260305
+inception/mercury-2 inception/mercury-2-20260304
+google/gemini-3.1-flash-lite-preview google/gemini-3.1-flash-lite-preview-20260303
+bytedance-seed/seed-2.0-mini bytedance-seed/seed-2.0-mini-20260224
+google/gemini-3.1-flash-image-preview google/gemini-3.1-flash-image-preview-20260226
+qwen/qwen3.5-35b-a3b qwen/qwen3.5-35b-a3b-20260224
+qwen/qwen3.5-27b qwen/qwen3.5-27b-20260224
+qwen/qwen3.5-122b-a10b qwen/qwen3.5-122b-a10b-20260224
+qwen/qwen3.5-flash-02-23 qwen/qwen3.5-flash-20260224
+google/gemini-3.1-pro-preview-customtools google/gemini-3.1-pro-preview-customtools-20260219
+nvidia/llama-nemotron-embed-vl-1b-v2:free nvidia/llama-nemotron-embed-vl-1b-v2-20260224
+openai/gpt-5.3-codex openai/gpt-5.3-codex-20260224
+aion-labs/aion-2.0 aion-labs/aion-2.0-20260223
+google/gemini-3.1-pro-preview google/gemini-3.1-pro-preview-20260219
+google/gemini-3.1-pro-preview:batch google/gemini-3.1-pro-preview-20260219
+anthropic/claude-sonnet-4.6 anthropic/claude-4.6-sonnet-20260217
+anthropic/claude-sonnet-4.6:batch anthropic/claude-4.6-sonnet-20260217
+qwen/qwen3.5-plus-02-15 qwen/qwen3.5-plus-20260216
+qwen/qwen3.5-397b-a17b qwen/qwen3.5-397b-a17b-20260216
+minimax/minimax-m2.5 minimax/minimax-m2.5-20260211
+z-ai/glm-5 z-ai/glm-5-20260211
+qwen/qwen3-max-thinking qwen/qwen3-max-thinking-20260123
+anthropic/claude-opus-4.6 anthropic/claude-4.6-opus-20260205
+anthropic/claude-opus-4.6:batch anthropic/claude-4.6-opus-20260205
+qwen/qwen3-coder-next qwen/qwen3-coder-next-2025-02-03
+sourceful/riverflow-v2-pro sourceful/riverflow-v2-pro-20260130
+sourceful/riverflow-v2-fast sourceful/riverflow-v2-fast-20260130
+openrouter/free
+stepfun/step-3.5-flash
+moonshotai/kimi-k2.5 moonshotai/kimi-k2.5-0127
+upstage/solar-pro-3
+minimax/minimax-m2-her minimax/minimax-m2-her-20260123
+writer/palmyra-x5 writer/palmyra-x5-20250428
+openai/gpt-audio
+openai/gpt-audio-mini
+z-ai/glm-4.7-flash z-ai/glm-4.7-flash-20260119
+black-forest-labs/flux.2-klein-4b
+openai/gpt-5.2-codex openai/gpt-5.2-codex-20260114
+bytedance-seed/seedream-4.5 bytedance-seed/seedream-4.5-20251203
+bytedance-seed/seed-1.6-flash bytedance-seed/seed-1.6-flash-20250625
+bytedance-seed/seed-1.6 bytedance-seed/seed-1.6-20250625
+minimax/minimax-m2.1
+z-ai/glm-4.7 z-ai/glm-4.7-20251222
+google/gemini-3-flash-preview google/gemini-3-flash-preview-20251217
+google/gemini-3-flash-preview:batch google/gemini-3-flash-preview-20251217
+black-forest-labs/flux.2-max
+nvidia/nemotron-3-nano-30b-a3b
+openai/gpt-5.2-chat openai/gpt-5.2-chat-20251211
+openai/gpt-5.2-pro openai/gpt-5.2-pro-20251211
+openai/gpt-5.2-pro:batch openai/gpt-5.2-pro-20251211
+openai/gpt-5.2 openai/gpt-5.2-20251211
+openai/gpt-5.2:batch openai/gpt-5.2-20251211
+mistralai/devstral-2512
+relace/relace-search relace/relace-search-20251208
+z-ai/glm-4.6v z-ai/glm-4.6-20251208
+openrouter/bodybuilder
+openai/gpt-5.1-codex-max openai/gpt-5.1-codex-max-20251204
+amazon/nova-2-lite-v1
+mistralai/ministral-14b-2512
+mistralai/ministral-8b-2512
+mistralai/ministral-8b-2512:batch mistralai/ministral-8b-2512
+mistralai/ministral-3b-2512
+mistralai/mistral-large-2512
+mistralai/mistral-large-2512:batch mistralai/mistral-large-2512
+deepseek/deepseek-v3.2 deepseek/deepseek-v3.2-20251201
+black-forest-labs/flux.2-flex
+black-forest-labs/flux.2-pro
+anthropic/claude-opus-4.5 anthropic/claude-4.5-opus-20251124
+anthropic/claude-opus-4.5:batch anthropic/claude-4.5-opus-20251124
+google/gemini-3-pro-image-preview google/gemini-3-pro-image-preview-20251120
+thenlper/gte-base thenlper/gte-base-20251117
+thenlper/gte-large thenlper/gte-large-20251117
+intfloat/e5-large-v2 intfloat/e5-large-v2-20251117
+intfloat/e5-base-v2 intfloat/e5-base-v2-20251117
+intfloat/multilingual-e5-large intfloat/multilingual-e5-large-20251117
+sentence-transformers/paraphrase-minilm-l6-v2 sentence-transformers/paraphrase-minilm-l6-v2-20251117
+sentence-transformers/all-minilm-l12-v2 sentence-transformers/all-minilm-l12-v2-20251117
+baai/bge-base-en-v1.5 baai/bge-base-en-v1.5-20251117
+sentence-transformers/multi-qa-mpnet-base-dot-v1 sentence-transformers/multi-qa-mpnet-base-dot-v1-20251117
+baai/bge-large-en-v1.5 baai/bge-large-en-v1.5-20251117
+baai/bge-m3 baai/bge-m3-20251117
+sentence-transformers/all-mpnet-base-v2 sentence-transformers/all-mpnet-base-v2-20251117
+sentence-transformers/all-minilm-l6-v2 sentence-transformers/all-minilm-l6-v2-20251117
+openai/gpt-5.1 openai/gpt-5.1-20251113
+openai/gpt-5.1:batch openai/gpt-5.1-20251113
+openai/gpt-5.1-codex openai/gpt-5.1-codex-20251113
+openai/gpt-5.1-codex-mini openai/gpt-5.1-codex-mini-20251113
+moonshotai/kimi-k2-thinking moonshotai/kimi-k2-thinking-20251106
+amazon/nova-premier-v1
+mistralai/mistral-embed-2312
+google/gemini-embedding-001
+openai/text-embedding-ada-002
+openai/text-embedding-ada-002:batch openai/text-embedding-ada-002
+mistralai/codestral-embed-2505
+openai/text-embedding-3-large
+openai/text-embedding-3-large:batch openai/text-embedding-3-large
+openai/text-embedding-3-small
+openai/text-embedding-3-small:batch openai/text-embedding-3-small
+perplexity/sonar-pro-search
+mistralai/voxtral-small-24b-2507
+openai/gpt-oss-safeguard-20b
+qwen/qwen3-embedding-8b
+qwen/qwen3-embedding-4b
+minimax/minimax-m2
+qwen/qwen3-vl-32b-instruct
+ibm-granite/granite-4.0-h-micro
+openai/gpt-5-image-mini
+anthropic/claude-haiku-4.5 anthropic/claude-4.5-haiku-20251001
+anthropic/claude-haiku-4.5:batch anthropic/claude-4.5-haiku-20251001
+qwen/qwen3-vl-8b-thinking
+qwen/qwen3-vl-8b-instruct
+openai/gpt-5-image
+google/gemini-2.5-flash-image
+qwen/qwen3-vl-30b-a3b-thinking
+qwen/qwen3-vl-30b-a3b-instruct
+openai/gpt-5-pro openai/gpt-5-pro-2025-10-06
+openai/gpt-5-pro:batch openai/gpt-5-pro-2025-10-06
+z-ai/glm-4.6
+anthropic/claude-sonnet-4.5 anthropic/claude-4.5-sonnet-20250929
+anthropic/claude-sonnet-4.5:batch anthropic/claude-4.5-sonnet-20250929
+deepseek/deepseek-v3.2-exp
+thedrummer/cydonia-24b-v4.1
+relace/relace-apply-3
+qwen/qwen3-vl-235b-a22b-thinking
+qwen/qwen3-vl-235b-a22b-instruct
+qwen/qwen3-max
+qwen/qwen3-coder-plus
+deepseek/deepseek-v3.1-terminus
+qwen/qwen3-coder-flash
+qwen/qwen3-next-80b-a3b-thinking qwen/qwen3-next-80b-a3b-thinking-2509
+qwen/qwen3-next-80b-a3b-instruct qwen/qwen3-next-80b-a3b-instruct-2509
+qwen/qwen-plus-2025-07-28
+moonshotai/kimi-k2-0905
+qwen/qwen3-30b-a3b-thinking-2507
+nousresearch/hermes-4-405b
+deepseek/deepseek-chat-v3.1
+mistralai/mistral-medium-3.1
+mistralai/mistral-medium-3.1:batch mistralai/mistral-medium-3.1
+z-ai/glm-4.5v
+openai/gpt-5 openai/gpt-5-2025-08-07
+openai/gpt-5:batch openai/gpt-5-2025-08-07
+openai/gpt-5-mini openai/gpt-5-mini-2025-08-07
+openai/gpt-5-mini:batch openai/gpt-5-mini-2025-08-07
+openai/gpt-5-nano openai/gpt-5-nano-2025-08-07
+openai/gpt-5-nano:batch openai/gpt-5-nano-2025-08-07
+openai/gpt-oss-120b
+openai/gpt-oss-120b:batch openai/gpt-oss-120b
+openai/gpt-oss-20b
+openai/gpt-oss-20b:batch openai/gpt-oss-20b
+anthropic/claude-opus-4.1 anthropic/claude-4.1-opus-20250805
+anthropic/claude-opus-4.1:batch anthropic/claude-4.1-opus-20250805
+mistralai/codestral-2508
+mistralai/codestral-2508:batch mistralai/codestral-2508
+qwen/qwen3-coder-30b-a3b-instruct
+qwen/qwen3-30b-a3b-instruct-2507
+z-ai/glm-4.5
+z-ai/glm-4.5-air
+qwen/qwen3-235b-a22b-thinking-2507
+qwen/qwen3-coder qwen/qwen3-coder-480b-a35b-07-25
+bytedance/ui-tars-1.5-7b
+google/gemini-2.5-flash-lite
+google/gemini-2.5-flash-lite:batch google/gemini-2.5-flash-lite
+qwen/qwen3-235b-a22b-2507 qwen/qwen3-235b-a22b-07-25
+moonshotai/kimi-k2
+cognitivecomputations/dolphin-mistral-24b-venice-edition venice/uncensored
+tencent/hunyuan-a13b-instruct
+morph/morph-v3-large
+morph/morph-v3-fast
+baidu/ernie-4.5-vl-424b-a47b
+mistralai/mistral-small-3.2-24b-instruct mistralai/mistral-small-3.2-24b-instruct-2506
+minimax/minimax-m1
+google/gemini-2.5-flash
+google/gemini-2.5-flash:batch google/gemini-2.5-flash
+google/gemini-2.5-pro
+google/gemini-2.5-pro:batch google/gemini-2.5-pro
+openai/o3-pro openai/o3-pro-2025-06-10
+google/gemini-2.5-pro-preview google/gemini-2.5-pro-preview-06-05
+deepseek/deepseek-r1-0528
+anthropic/claude-sonnet-4 anthropic/claude-4-sonnet-20250522
+mistralai/mistral-medium-3
+meta-llama/llama-guard-4-12b
+qwen/qwen3-30b-a3b qwen/qwen3-30b-a3b-04-28
+qwen/qwen3-8b qwen/qwen3-8b-04-28
+qwen/qwen3-14b qwen/qwen3-14b-04-28
+qwen/qwen3-32b qwen/qwen3-32b-04-28
+qwen/qwen3-235b-a22b qwen/qwen3-235b-a22b-04-28
+openai/o4-mini-high openai/o4-mini-high-2025-04-16
+openai/o3 openai/o3-2025-04-16
+openai/o3:batch openai/o3-2025-04-16
+openai/o4-mini openai/o4-mini-2025-04-16
+openai/o4-mini:batch openai/o4-mini-2025-04-16
+openai/gpt-4.1 openai/gpt-4.1-2025-04-14
+openai/gpt-4.1:batch openai/gpt-4.1-2025-04-14
+openai/gpt-4.1-mini openai/gpt-4.1-mini-2025-04-14
+openai/gpt-4.1-mini:batch openai/gpt-4.1-mini-2025-04-14
+openai/gpt-4.1-nano openai/gpt-4.1-nano-2025-04-14
+openai/gpt-4.1-nano:batch openai/gpt-4.1-nano-2025-04-14
+meta-llama/llama-4-maverick meta-llama/llama-4-maverick-17b-128e-instruct
+meta-llama/llama-4-scout meta-llama/llama-4-scout-17b-16e-instruct
+deepseek/deepseek-chat-v3-0324
+openai/o1-pro
+mistralai/mistral-small-3.1-24b-instruct mistralai/mistral-small-3.1-24b-instruct-2503
+google/gemma-3-4b-it
+google/gemma-3-12b-it
+cohere/command-a cohere/command-a-03-2025
+rekaai/reka-flash-3
+google/gemma-3-27b-it
+thedrummer/skyfall-36b-v2
+perplexity/sonar-reasoning-pro
+perplexity/sonar-pro
+perplexity/sonar-deep-research
+mistralai/mistral-saba mistralai/mistral-saba-2502
+openai/o3-mini-high openai/o3-mini-high-2025-01-31
+aion-labs/aion-rp-llama-3.1-8b
+qwen/qwen2.5-vl-72b-instruct
+qwen/qwen-plus qwen/qwen-plus-2025-01-25
+openai/o3-mini openai/o3-mini-2025-01-31
+openai/o3-mini:batch openai/o3-mini-2025-01-31
+mistralai/mistral-small-24b-instruct-2501
+perplexity/sonar
+deepseek/deepseek-r1-distill-llama-70b
+deepseek/deepseek-r1
+minimax/minimax-01
+microsoft/phi-4
+deepseek/deepseek-chat deepseek/deepseek-chat-v3
+sao10k/l3.3-euryale-70b sao10k/l3.3-euryale-70b-v2.3
+openai/o1 openai/o1-2024-12-17
+cohere/command-r7b-12-2024
+meta-llama/llama-3.3-70b-instruct
+amazon/nova-lite-v1
+amazon/nova-micro-v1
+amazon/nova-pro-v1
+openai/gpt-4o-2024-11-20
+mistralai/mistral-large-2407
+qwen/qwen-2.5-coder-32b-instruct
+thedrummer/unslopnemo-12b
+anthracite-org/magnum-v4-72b
+qwen/qwen-2.5-7b-instruct
+meta-llama/llama-3.2-1b-instruct
+meta-llama/llama-3.2-3b-instruct
+qwen/qwen-2.5-72b-instruct
+cohere/command-r-08-2024
+cohere/command-r-plus-08-2024
+sao10k/l3.1-euryale-70b
+nousresearch/hermes-3-llama-3.1-70b
+nousresearch/hermes-3-llama-3.1-405b
+sao10k/l3-lunaris-8b
+openai/gpt-4o-2024-08-06
+meta-llama/llama-3.1-70b-instruct
+meta-llama/llama-3.1-8b-instruct
+mistralai/mistral-nemo
+openai/gpt-4o-mini
+openai/gpt-4o-mini-2024-07-18
+openai/gpt-4o-mini:batch openai/gpt-4o-mini
+google/gemma-2-27b-it
+openai/gpt-4o
+openai/gpt-4o-2024-05-13
+openai/gpt-4o:batch openai/gpt-4o
+mistralai/mixtral-8x22b-instruct
+microsoft/wizardlm-2-8x22b
+openai/gpt-4-turbo
+openai/gpt-4-turbo:batch openai/gpt-4-turbo
+anthropic/claude-3-haiku
+mistralai/mistral-large
+openai/gpt-3.5-turbo-0613
+openrouter/auto
+openai/gpt-3.5-turbo-instruct
+openai/gpt-3.5-turbo-16k
+mancer/weaver
+undi95/remm-slerp-l2-13b
+gryphe/mythomax-l2-13b
+openai/gpt-3.5-turbo
+openai/gpt-3.5-turbo:batch openai/gpt-3.5-turbo
+openai/gpt-4
